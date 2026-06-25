@@ -1,11 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BYOUR+NAME%5D;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+%5BRubeena%5D;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Python+%7C+Django+%7C+React+%7C+REST+API+Developer;Building+scalable+%26+elegant+web+applications" alt="Subtitle Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 
 <br/><br/>
 
