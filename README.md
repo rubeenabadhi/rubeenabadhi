@@ -131,28 +131,80 @@ me.say_hi()
 
 ## 🌟 Featured Projects
 
+<br/>
+
 <div align="center">
-### 🏆 Major Projects
 
-- 👟 **WalkOn E-Commerce**
-  - Multi-vendor shoe shopping platform
-  - Cart, Wishlist, Wallet, Coupons, Orders & Payments
-  - Django, PostgreSQL, Bootstrap
-  - 🔗 Repository: [View Project](https://github.com/rubeenabadhi/Walkon_ecommerce)
+### A selection of production-ready web apps built with Python, Django & modern frontend tools.
 
-- 🌱 **Nursery Plant Store**
-  - Online plant shopping platform
-  - Product catalog and category management
-  - Django, Python, HTML, CSS
-  - 🔗 Repository: [View Project](https://github.com/rubeenabadhi/Nursery)
-
-- 👜 **Bag Store E-Commerce**
-  - Responsive online bag store
-  - Authentication, Cart & Checkout
-  - Django, JavaScript, Bootstrap
-  - 🔗 Repository: [View Project](https://github.com/rubeenabadhi/ecommerce)
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 👟 WalkOn E-Commerce
+> Multi-vendor shoe shopping platform with a complete retail experience
+
+**✦ Highlights**
+- 🛒 Cart, Wishlist & Wallet system
+- 🎟️ Coupon engine & order tracking
+- 💳 Integrated payment gateway
+
+**🛠 Stack**
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubeenabadhi/Walkon_ecommerce)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Nursery Plant Store
+> Online plant shopping platform with rich catalog browsing and category navigation
+
+**✦ Highlights**
+- 🌿 Full product catalog management
+- 🗂️ Category & filter system
+- 🖥️ Clean, responsive storefront
+
+**🛠 Stack**
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubeenabadhi/Nursery)
+
+</td>
+<td width="33%" valign="top">
+
+### 👜 Bag Store E-Commerce
+> Responsive online bag store with full authentication, cart & checkout flow
+
+**✦ Highlights**
+- 🔐 User authentication & profiles
+- 🛍️ Dynamic cart & checkout
+- 📱 Mobile-first responsive layout
+
+**🛠 Stack**
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/View_Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubeenabadhi/ecommerce)
+
+</td>
+</tr>
+</table>
 ---
 
 
