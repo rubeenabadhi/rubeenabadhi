@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rubeenabadhi&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
 
 </div>
 
