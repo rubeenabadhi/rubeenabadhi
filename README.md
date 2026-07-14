@@ -207,9 +207,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rubeenabadhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubeenabadhi&layout=compact&theme=tokyonight)</div>
 
 <br/>
 
